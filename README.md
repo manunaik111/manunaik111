@@ -41,7 +41,7 @@ class ManuNaik:
 
 ## 👤 About Me
 
-I'm **Manu Naik** — a computer science student on a mission to become a full-stack **AI/ML Engineer**. I don't just write code; I architect solutions. My work sits at the intersection of **data engineering**, **machine learning**, and **cloud infrastructure** — where raw data becomes insight, and insight becomes action.
+I'm **Manu Naik** — a computer science student on a mission to become a full-stack **AI/ML Engineer** **Data Scientist** **Data Analyst** . I don't just write code; I architect solutions. My work sits at the intersection of **data engineering**, **machine learning**, and **cloud infrastructure** — where raw data becomes insight, and insight becomes action.
 
 I believe the best engineers are those who understand *why* before they understand *how*. I approach every project with a systems-thinking mindset: understanding the problem deeply before reaching for tools. Whether it's designing a chatbot pipeline, building a REST API, or exploring a dataset, I focus on clarity, correctness, and impact.
 
@@ -76,13 +76,9 @@ I believe the best engineers are those who understand *why* before they understa
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -140,49 +136,10 @@ A Python-based analytics pipeline with automated exploratory data analysis, tren
 ![Type](https://img.shields.io/badge/Type-Data%20Engineering-purple?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
 
-### ⚡ [FastAPI Microservices Template](#)
-> *Production-ready boilerplate for scalable Python APIs*
-
-A clean, modular FastAPI project structure with JWT auth, PostgreSQL integration, Docker support, and CI/CD hooks — designed to be a reusable foundation for AI backends.
-
-**Stack:** `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `Python`
-
-![Status](https://img.shields.io/badge/Status-Open%20Source-brightgreen?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Backend%20%2F%20DevOps-red?style=flat-square)
-
-</td>
 </tr>
 </table>
-
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manunaik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manunaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manunaik&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="60%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manunaik&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
 
 ---
 
@@ -208,20 +165,6 @@ A clean, modular FastAPI project structure with JWT auth, PostgreSQL integration
         ↳ Dashboards that tell stories, not just display numbers
 ```
 
----
-
-## 🌱 Learning Goals — 2025–2026
-
-| Quarter | Focus Area | Target Outcome |
-|---------|-----------|----------------|
-| Q1 2025 | **FastAPI + Async Python** | Production-ready API architecture |
-| Q2 2025 | **MLOps Fundamentals** | Model versioning with MLflow / DVC |
-| Q3 2025 | **Cloud Deployment** | Deploy ML models on AWS SageMaker |
-| Q4 2025 | **LLM + RAG Systems** | Build domain-grounded AI assistants |
-| 2026 | **Distributed Systems** | High-throughput, fault-tolerant pipelines |
-
----
-
 ## 🔭 Future Vision
 
 > I'm building toward a future where I design **AI systems that operate at scale** — systems that don't just analyze data, but actively help organizations make smarter decisions in real time.
@@ -242,7 +185,7 @@ I'm not just chasing a job title. I'm building the depth of knowledge and breadt
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@manunaik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manunaik111)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://manu-portfolio-teal.vercel.app/)
 
 <br/>
 
