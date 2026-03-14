@@ -4,7 +4,7 @@
 <!--                     HEADER BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manu%20Naik&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Cloud%20Builder&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manu%20Naik&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Cloud%20Learner&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- ─── Typing animation ─── -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+from+Scratch;Turning+Raw+Data+into+Real+Decisions;Designing+Scalable+AI+%26+Cloud+Pipelines;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
@@ -185,7 +185,7 @@ I'm not just chasing a job title. I'm building the depth of knowledge and breadt
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@manunaik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manunaik111)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://manu-portfolio-teal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Manu%20Naik-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://manu-portfolio-teal.vercel.app/)
 
 <br/>
 
