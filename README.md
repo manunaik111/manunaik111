@@ -117,7 +117,7 @@ A machine learning pipeline that processes sensor data to predict equipment fail
 
 **Stack:** `Python` `Scikit-Learn` `Pandas` `REST API` `Docker`
 
-![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-lightgrey?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-AI%20%2F%20ML-orange?style=flat-square)
 
 </td>
@@ -132,7 +132,7 @@ A Python-based analytics pipeline with automated exploratory data analysis, tren
 
 **Stack:** `Python` `Pandas` `Seaborn` `Streamlit` `Plotly`
 
-![Status](https://img.shields.io/badge/Status-Prototype-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-planned-green?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Data%20Engineering-purple?style=flat-square)
 
 </td>
