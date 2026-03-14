@@ -14,11 +14,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manunaik&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manunaik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-naik-73bb702a7)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/manunaik?style=for-the-badge&color=238636&label=FOLLOWERS&logo=github)](https://github.com/manunaik)
+[![GitHub followers](https://img.shields.io/github/followers/manunaik111?style=for-the-badge&color=238636&label=FOLLOWERS&logo=github)](https://github.com/manunaik111)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20%2F%20ML%20%2F%20Cloud-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:manu@example.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20%2F%20ML%20%2F%20Cloud-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:manupnaik639@gmail.com)
 
 </div>
 
@@ -181,9 +181,9 @@ I'm not just chasing a job title. I'm building the depth of knowledge and breadt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-naik-73bb702a7)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manupnaik639@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manupnaik639@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@manunaik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manunaik111)
+[![GitHub](https://img.shields.io/badge/GitHub-@manunaik111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manunaik111)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Manu%20Naik-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://manu-portfolio-teal.vercel.app/)
 
