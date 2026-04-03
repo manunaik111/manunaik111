@@ -150,6 +150,24 @@ A machine learning pipeline that processes sensor data to predict equipment fail
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [Hospital Management System](https://github.com/manunaik111/hospital_management_system_5thsem_mini_project)
+> *Role-based web application for managing hospital workflows*
+
+A full-stack web application built with **Flask + SQLite** as a 5th semester college mini-project. Implements three distinct roles — **Admin**, **Doctor**, and **Patient** — with dedicated dashboards for appointment booking, online prescription writing, and doctor management.
+
+**Stack:** `Python` `Flask` `SQLite` `SQLAlchemy` `HTML/CSS` `Jinja2`
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Web%20App-blue?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+<!-- placeholder cell for table symmetry -->
+</td>
+</tr>
 </table>
 ---
 
