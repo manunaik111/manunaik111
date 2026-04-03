@@ -97,46 +97,58 @@ I believe the best engineers are those who understand *why* before they understa
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [AI Business Analytics Chatbot](#)
-> *Intelligent system for querying and visualizing business transaction data*
+### 🤖 [AI Sales Chatbot System](https://github.com/manunaik111/AI-Sales-Chatbot-system)
+> *Full-stack AI chatbot with real-time sales analytics dashboard*
 
-An end-to-end AI chatbot built with **Streamlit + FastAPI** that interprets natural language queries and returns dynamic data insights from a 10K+ record transaction dataset.
+A production-grade team project integrating a stateful AI chatbot (powered by **Groq API**) with an interactive analytics dashboard. Features natural language querying, floating chatbot UI, PDF/Excel report generation, and modular architecture across 70+ commits.
 
-**Stack:** `Python` `Streamlit` `FastAPI` `Pandas` `Matplotlib`
+**Stack:** `Python 3.11` `Streamlit` `Groq API` `Pandas` `NLTK` `fpdf2`
 
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Team%20Project-blue?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Predictive Maintenance Engine](#)
-> *ML-powered anomaly detection for industrial system health*
+### 🌿 [Flower Edge Classifier](https://github.com/manunaik111/flower_edge_classifier)
+> *Production-ready image classifier compressed for edge AI deployment*
 
-A machine learning pipeline that processes sensor data to predict equipment failure before it happens — reducing downtime and operational cost.
+Built a flower classification model using **MobileNetV2 Transfer Learning** (99.76% training accuracy, 90.05% test accuracy), then compressed it by **76.8%** via TFLite quantization — making it deployable on smartphones and edge devices without a GPU.
 
-**Stack:** `Python` `Scikit-Learn` `Pandas` `REST API` `Docker`
+**Stack:** `TensorFlow 2.21` `MobileNetV2` `TFLite` `Streamlit` `OpenCV`
 
-![Status](https://img.shields.io/badge/Status-Completed-lightgrey?style=flat-square)
-![Type](https://img.shields.io/badge/Type-AI%20%2F%20ML-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Edge%20AI-orange?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Sales Intelligence Dashboard](#)
-> *Automated EDA and visualization pipeline for business datasets*
+### 🛡️ [Sentinel — Churn Prediction Engine](https://github.com/manunaik111/sentinel-churn-engine)
+> *ML-powered customer churn prediction with live Streamlit dashboard*
 
-A Python-based analytics pipeline with automated exploratory data analysis, trend detection, and an interactive Streamlit dashboard for non-technical stakeholders.
+An end-to-end churn prediction pipeline trained on telecom data using **Random Forest & XGBoost**. Features a live interactive dashboard on Streamlit Cloud with feature importance charts, churn probability scoring, and customer-level risk breakdown.
 
-**Stack:** `Python` `Pandas` `Seaborn` `Streamlit` `Plotly`
+**Stack:** `Python` `Scikit-Learn` `XGBoost` `Streamlit` `Plotly` `Pandas`
 
-![Status](https://img.shields.io/badge/Status-planned-green?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Data%20Engineering-purple?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Predictive%20ML-purple?style=flat-square)
 
 </td>
+<td width="50%" valign="top">
 
+### 🔍 [AI for Predictive Maintenance](https://github.com/manunaik111/AI_For_Predictive_Maintenance)
+> *ML-powered anomaly detection for industrial system health*
+
+A machine learning pipeline that processes sensor data to predict equipment failure before it happens — reducing downtime and operational cost. Built with a focus on real-world industrial AI deployment.
+
+**Stack:** `Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Industrial%20AI-orange?style=flat-square)
+
+</td>
 </tr>
 </table>
 ---
