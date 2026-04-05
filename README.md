@@ -225,7 +225,7 @@ I'm not just chasing a job title. I'm building the depth of knowledge and breadt
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@manunaik111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manunaik111)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Manu%20Naik-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://manunaik.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Manu%20Naik-58a6ff?style=for-the-badge&logo=netlify&logoColor=white)](https://manunaik.netlify.app/)
 
 <br/>
 
