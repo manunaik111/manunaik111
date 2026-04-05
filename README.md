@@ -52,7 +52,7 @@ I believe the best engineers are those who understand *why* before they understa
 ## 🎯 Current Focus
 
 ```
-◉  Building AI-powered chatbot systems with real business data integration
+◉  Building AI-powered autonomous procurement systems with multi-agent pipelines
 ◉  Developing REST APIs with FastAPI for intelligent data access layers
 ◉  Exploring ML pipelines for predictive maintenance & anomaly detection
 ◉  Learning MLOps practices — model versioning, deployment, monitoring
@@ -79,6 +79,7 @@ I believe the best engineers are those who understand *why* before they understa
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -97,6 +98,19 @@ I believe the best engineers are those who understand *why* before they understa
 <tr>
 <td width="50%" valign="top">
 
+### ⬡ [ProcureIQ — Autonomous Procurement Intelligence](https://github.com/manunaik111/procureiq)
+> *My biggest project — a fully deployed multi-agent AI system that autonomously handles end-to-end procurement*
+
+8 AI agents working in a LangGraph pipeline: discovers real suppliers via web search, scores risk with ML, forecasts prices 30/60/90 days, generates negotiation strategy, drafts RFQ + contracts, sends email notifications, awaits human approval, then generates the final Purchase Order. **Live in production on Railway + Hugging Face.**
+
+**Stack:** `LangGraph` `FastAPI` `Groq LLM` `PostgreSQL` `Streamlit` `Railway` `Resend`
+
+![Status](https://img.shields.io/badge/Status-Live%20in%20Production-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Multi--Agent%20AI-red?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 [AI Sales Chatbot System](https://github.com/manunaik111/AI-Sales-Chatbot-system)
 > *Full-stack AI chatbot with real-time sales analytics dashboard*
 
@@ -108,6 +122,8 @@ A production-grade team project integrating a stateful AI chatbot (powered by **
 ![Type](https://img.shields.io/badge/Type-Team%20Project-blue?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌿 [Flower Edge Classifier](https://github.com/manunaik111/flower_edge_classifier)
@@ -121,8 +137,6 @@ Built a flower classification model using **MobileNetV2 Transfer Learning** (99.
 ![Type](https://img.shields.io/badge/Type-Edge%20AI-orange?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [Sentinel — Churn Prediction Engine](https://github.com/manunaik111/sentinel-churn-engine)
@@ -136,6 +150,8 @@ An end-to-end churn prediction pipeline trained on telecom data using **Random F
 ![Type](https://img.shields.io/badge/Type-Predictive%20ML-purple?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 [AI for Predictive Maintenance](https://github.com/manunaik111/AI_For_Predictive_Maintenance)
@@ -149,8 +165,6 @@ A machine learning pipeline that processes sensor data to predict equipment fail
 ![Type](https://img.shields.io/badge/Type-Industrial%20AI-orange?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 [Hospital Management System](https://github.com/manunaik111/hospital_management_system_5thsem_mini_project)
@@ -164,12 +178,8 @@ A full-stack web application built with **Flask + SQLite** as a 5th semester col
 ![Type](https://img.shields.io/badge/Type-Web%20App-blue?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
-<!-- placeholder cell for table symmetry -->
-</td>
 </tr>
 </table>
----
 
 ---
 
@@ -188,8 +198,8 @@ A full-stack web application built with **Flask + SQLite** as a 5th semester col
 ☁️  Cloud-Native AI Deployment
         ↳ Model serving, containerization, serverless inference
 
-🤖  LLM Integration & RAG Systems
-        ↳ Chatbots grounded in domain-specific data & knowledge bases
+🤖  LLM Integration & Multi-Agent Systems
+        ↳ Autonomous pipelines, human-in-the-loop workflows, LangGraph
 
 📊  Intelligent Visualization
         ↳ Dashboards that tell stories, not just display numbers
