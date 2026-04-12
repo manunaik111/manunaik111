@@ -179,6 +179,23 @@ A full-stack web application built with **Flask + SQLite** as a 5th semester col
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [DocuQuery — Self-RAG Document Intelligence](https://github.com/manunaik111/DOCUQUERY)
+> *Production-grade document Q&A system with hallucination-checked, source-cited answers*
+
+A 6-node **LangGraph** Self-RAG pipeline that optimises queries, retrieves context via hybrid **BM25 + ChromaDB** search, reranks with a **CrossEncoder**, generates answers through **LLaMA 3.3 70B**, then self-corrects by grading retrieval quality and hallucinations — returning grounded responses with source-page citations.
+
+**Stack:** `LangGraph` `Self-RAG` `ChromaDB` `BM25` `LLaMA 3.3 70B` `Streamlit` `Groq`
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-RAG%20%2F%20Agentic%20AI-blueviolet?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
