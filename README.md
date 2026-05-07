@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manu%20Naik&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     HEADER BANNER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+from+Scratch;Turning+Raw+Data+into+Real+Decisions;Designing+Scalable+AI+%26+Cloud+Pipelines;Multi-Agent+%7C+LLM+%7C+MLOps+%7C+FastAPI;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Manu%20Naik&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Cloud%20Learner&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
+<!-- ─── Typing animation ─── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+from+Scratch;Turning+Raw+Data+into+Real+Decisions;Designing+Scalable+AI+%26+Cloud+Pipelines;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+
+<!-- ─── Profile badges ─── -->
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=manunaik111&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=manunaik&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-naik-73bb702a7)
 &nbsp;
@@ -35,9 +41,9 @@ class ManuNaik:
 
 ## 👤 About Me
 
-I'm **Manu Naik** — a final-year CS student specializing in AI on a mission to become a full-stack **AI/ML Engineer** and **Data Scientist**. I don't just write code; I architect solutions. My work sits at the intersection of **data engineering**, **machine learning**, and **cloud infrastructure** — where raw data becomes insight, and insight becomes action.
+I'm **Manu Naik** — a computer science student on a mission to become a full-stack **AI/ML Engineer** **Data Scientist** **Data Analyst** . I don't just write code; I architect solutions. My work sits at the intersection of **data engineering**, **machine learning**, and **cloud infrastructure** — where raw data becomes insight, and insight becomes action.
 
-I approach every project with a systems-thinking mindset: understanding the problem deeply before reaching for tools. Whether it's designing a multi-agent pipeline, building a REST API, or exploring a dataset, I focus on clarity, correctness, and impact.
+I believe the best engineers are those who understand *why* before they understand *how*. I approach every project with a systems-thinking mindset: understanding the problem deeply before reaching for tools. Whether it's designing a chatbot pipeline, building a REST API, or exploring a dataset, I focus on clarity, correctness, and impact.
 
 > *"The goal of engineering is not to build things. It's to solve problems that matter."*
 
@@ -46,57 +52,12 @@ I approach every project with a systems-thinking mindset: understanding the prob
 ## 🎯 Current Focus
 
 ```
-◉  Building AI-powered autonomous systems with multi-agent LangGraph pipelines
-◉  Developing production REST APIs with FastAPI for intelligent data access layers
-◉  Exploring Self-RAG architectures for grounded LLM document intelligence
+◉  Building AI-powered autonomous procurement systems with multi-agent pipelines
+◉  Developing REST APIs with FastAPI for intelligent data access layers
+◉  Exploring ML pipelines for predictive maintenance & anomaly detection
 ◉  Learning MLOps practices — model versioning, deployment, monitoring
 ◉  Mastering cloud-native architecture on AWS & GCP
-◉  Actively seeking AI/ML/Data roles — graduating June 2026
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manunaik111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manunaik111&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manunaik111&theme=tokyonight&hide_border=true" height="180em"/>
-
-</div>
-
----
-
-## 🏆 Trophy Showcase
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=manunaik111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manunaik111/manunaik111/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manunaik111/manunaik111/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/manunaik111/manunaik111/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
-> ⚙️ To activate the snake: add the GitHub Actions workflow below to `.github/workflows/snake.yml` in your profile repo.
 
 ---
 
@@ -104,28 +65,23 @@ I approach every project with a systems-thinking mindset: understanding the prob
 
 ### 🧠 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-58A6FF?style=for-the-badge&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LLM-F54703?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🖥️ Dev Tools & Interfaces
@@ -143,9 +99,9 @@ I approach every project with a systems-thinking mindset: understanding the prob
 <td width="50%" valign="top">
 
 ### ⬡ [ProcureIQ — Autonomous Procurement Intelligence](https://github.com/manunaik111/procureiq)
-> *Multi-agent AI system that autonomously handles end-to-end procurement*
+> *My biggest project — a fully deployed multi-agent AI system that autonomously handles end-to-end procurement*
 
-8 AI agents in a LangGraph pipeline: discovers real suppliers via web search, scores risk with ML, forecasts prices 30/60/90 days, generates negotiation strategy, drafts RFQ + contracts, sends email notifications, awaits human approval, generates final Purchase Order. **Live on Railway.**
+8 AI agents working in a LangGraph pipeline: discovers real suppliers via web search, scores risk with ML, forecasts prices 30/60/90 days, generates negotiation strategy, drafts RFQ + contracts, sends email notifications, awaits human approval, then generates the final Purchase Order. **Live in production on Railway + Hugging Face.**
 
 **Stack:** `LangGraph` `FastAPI` `Groq LLM` `PostgreSQL` `Streamlit` `Railway` `Resend`
 
@@ -155,43 +111,15 @@ I approach every project with a systems-thinking mindset: understanding the prob
 </td>
 <td width="50%" valign="top">
 
-### 📄 [DocuQuery — Self-RAG Document Intelligence](https://github.com/manunaik111/DOCUQUERY)
-> *Hallucination-checked, source-cited document Q&A system*
-
-6-node LangGraph Self-RAG pipeline: optimises queries, retrieves via hybrid **BM25 + ChromaDB**, reranks with CrossEncoder, generates via **LLaMA 3.3 70B**, self-corrects by grading retrieval quality and hallucinations — returns grounded answers with source-page citations.
-
-**Stack:** `LangGraph` `Self-RAG` `ChromaDB` `BM25` `LLaMA 3.3 70B` `Streamlit` `Groq`
-
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-![Type](https://img.shields.io/badge/Type-RAG%20%2F%20Agentic%20AI-blueviolet?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🤖 [AI Sales Chatbot System](https://github.com/manunaik111/AI-Sales-Chatbot-system)
 > *Full-stack AI chatbot with real-time sales analytics dashboard*
 
-Production-grade team project: stateful AI chatbot (Groq API) + interactive analytics dashboard. Features RBAC, natural language querying, floating chatbot UI, PDF/Excel report generation, glassmorphism dark theme, 8 KPIs, 6 Plotly charts.
+A production-grade team project integrating a stateful AI chatbot (powered by **Groq API**) with an interactive analytics dashboard. Features natural language querying, floating chatbot UI, PDF/Excel report generation, and modular architecture across 70+ commits.
 
-**Stack:** `Python 3.11` `Streamlit` `Groq API` `Pandas` `RBAC` `fpdf2` `openpyxl`
+**Stack:** `Python 3.11` `Streamlit` `Groq API` `Pandas` `NLTK` `fpdf2`
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Team%20Project-blue?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [Sentinel — Churn Prediction Engine](https://github.com/manunaik111/sentinel)
-> *ML-powered customer churn prediction with live Streamlit dashboard*
-
-End-to-end churn prediction pipeline on IBM Telco dataset. Logistic Regression selected for best Recall (78%, AUC-ROC 0.846). Live Streamlit Cloud dashboard with feature importance charts, churn probability scoring, and customer-level risk breakdown.
-
-**Stack:** `Python` `Scikit-Learn` `XGBoost` `FastAPI` `Docker` `Streamlit` `Plotly`
-
-![Status](https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Predictive%20ML-purple?style=flat-square)
 
 </td>
 </tr>
@@ -201,7 +129,7 @@ End-to-end churn prediction pipeline on IBM Telco dataset. Logistic Regression s
 ### 🌿 [Flower Edge Classifier](https://github.com/manunaik111/flower_edge_classifier)
 > *Production-ready image classifier compressed for edge AI deployment*
 
-MobileNetV2 Transfer Learning (99.76% training, 90.05% test accuracy), compressed **76.8%** via TFLite quantization — deployable on smartphones and edge devices without a GPU.
+Built a flower classification model using **MobileNetV2 Transfer Learning** (99.76% training accuracy, 90.05% test accuracy), then compressed it by **76.8%** via TFLite quantization — making it deployable on smartphones and edge devices without a GPU.
 
 **Stack:** `TensorFlow 2.21` `MobileNetV2` `TFLite` `Streamlit` `OpenCV`
 
@@ -211,10 +139,25 @@ MobileNetV2 Transfer Learning (99.76% training, 90.05% test accuracy), compresse
 </td>
 <td width="50%" valign="top">
 
+### 🛡️ [Sentinel — Churn Prediction Engine](https://github.com/manunaik111/sentinel-churn-engine)
+> *ML-powered customer churn prediction with live Streamlit dashboard*
+
+An end-to-end churn prediction pipeline trained on telecom data using **Random Forest & XGBoost**. Features a live interactive dashboard on Streamlit Cloud with feature importance charts, churn probability scoring, and customer-level risk breakdown.
+
+**Stack:** `Python` `Scikit-Learn` `XGBoost` `Streamlit` `Plotly` `Pandas`
+
+![Status](https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Predictive%20ML-purple?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔍 [AI for Predictive Maintenance](https://github.com/manunaik111/AI_For_Predictive_Maintenance)
 > *ML-powered anomaly detection for industrial system health*
 
-Machine learning pipeline processing sensor data to predict equipment failure before it happens — reducing downtime and operational cost. Built with a focus on real-world industrial AI deployment.
+A machine learning pipeline that processes sensor data to predict equipment failure before it happens — reducing downtime and operational cost. Built with a focus on real-world industrial AI deployment.
 
 **Stack:** `Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
 
@@ -222,19 +165,32 @@ Machine learning pipeline processing sensor data to predict equipment failure be
 ![Type](https://img.shields.io/badge/Type-Industrial%20AI-orange?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 [Hospital Management System](https://github.com/manunaik111/hospital_management_system_5thsem_mini_project)
 > *Role-based web application for managing hospital workflows*
 
-Full-stack Flask + SQLite web app with three distinct roles — **Admin**, **Doctor**, **Patient** — with dedicated dashboards for appointment booking, online prescription writing, and doctor management.
+A full-stack web application built with **Flask + SQLite** as a 5th semester college mini-project. Implements three distinct roles — **Admin**, **Doctor**, and **Patient** — with dedicated dashboards for appointment booking, online prescription writing, and doctor management.
 
 **Stack:** `Python` `Flask` `SQLite` `SQLAlchemy` `HTML/CSS` `Jinja2`
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Web%20App-blue?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [DocuQuery — Self-RAG Document Intelligence](https://github.com/manunaik111/DOCUQUERY)
+> *Production-grade document Q&A system with hallucination-checked, source-cited answers*
+
+A 6-node **LangGraph** Self-RAG pipeline that optimises queries, retrieves context via hybrid **BM25 + ChromaDB** search, reranks with a **CrossEncoder**, generates answers through **LLaMA 3.3 70B**, then self-corrects by grading retrieval quality and hallucinations — returning grounded responses with source-page citations.
+
+**Stack:** `LangGraph` `Self-RAG` `ChromaDB` `BM25` `LLaMA 3.3 70B` `Streamlit` `Groq`
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-RAG%20%2F%20Agentic%20AI-blueviolet?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -253,20 +209,18 @@ Full-stack Flask + SQLite web app with three distinct roles — **Admin**, **Doc
 🌐  Scalable Backend Architecture
         ↳ REST APIs, async systems, microservices, FastAPI
 
-🤖  LLM Integration & Multi-Agent Systems
-        ↳ Autonomous pipelines, human-in-the-loop workflows, LangGraph, Self-RAG
-
 📡  Data Engineering & Pipelines
         ↳ ETL design, data cleaning, feature engineering at scale
 
 ☁️  Cloud-Native AI Deployment
         ↳ Model serving, containerization, serverless inference
 
+🤖  LLM Integration & Multi-Agent Systems
+        ↳ Autonomous pipelines, human-in-the-loop workflows, LangGraph
+
 📊  Intelligent Visualization
         ↳ Dashboards that tell stories, not just display numbers
 ```
-
----
 
 ## 🔭 Future Vision
 
@@ -308,38 +262,3 @@ I'm not just chasing a job title. I'm building the depth of knowledge and breadt
 *— Manu Naik*
 
 </div>
-
----
-
-<!-- ============================================================ -->
-<!--         SNAKE WORKFLOW — save as .github/workflows/snake.yml -->
-<!-- ============================================================ -->
-<!--
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: manunaik111
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
--->
